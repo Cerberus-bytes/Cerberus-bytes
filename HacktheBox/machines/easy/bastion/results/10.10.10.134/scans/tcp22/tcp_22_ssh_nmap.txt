@@ -1,7 +1,7 @@
-# Nmap 7.92 scan initiated Sat May 21 13:36:16 2022 as: nmap -vv --reason -Pn -T4 -sV -p 22 --script=banner,ssh2-enum-algos,ssh-hostkey,ssh-auth-methods -oN /home/kali/Documents/Repositories/CTF/LearningPlatforms/hackthebox/machines/easy/bastion/results/10.10.10.134/scans/tcp22/tcp_22_ssh_nmap.txt -oX /home/kali/Documents/Repositories/CTF/LearningPlatforms/hackthebox/machines/easy/bastion/results/10.10.10.134/scans/tcp22/xml/tcp_22_ssh_nmap.xml 10.10.10.134
+# Nmap 7.92 scan initiated Mon Aug  1 17:38:45 2022 as: nmap -vv --reason -Pn -T4 -sV -p 22 --script=banner,ssh2-enum-algos,ssh-hostkey,ssh-auth-methods -oN /home/Default/Documents/Repos/Default_/Platforms/HacktheBox/machines/easy/bastion/results/10.10.10.134/scans/tcp22/tcp_22_ssh_nmap.txt -oX /home/Default/Documents/Repos/Default_/Platforms/HacktheBox/machines/easy/bastion/results/10.10.10.134/scans/tcp22/xml/tcp_22_ssh_nmap.xml 10.10.10.134
 Nmap scan report for 10.10.10.134
-Host is up, received user-set (0.050s latency).
-Scanned at 2022-05-21 13:36:16 EDT for 3s
+Host is up, received user-set (0.015s latency).
+Scanned at 2022-08-01 17:38:45 EDT for 1s
 
 PORT   STATE SERVICE REASON          VERSION
 22/tcp open  ssh     syn-ack ttl 127 OpenSSH for_Windows_7.9 (protocol 2.0)
@@ -59,4 +59,4 @@ PORT   STATE SERVICE REASON          VERSION
 
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sat May 21 13:36:19 2022 -- 1 IP address (1 host up) scanned in 2.49 seconds
+# Nmap done at Mon Aug  1 17:38:46 2022 -- 1 IP address (1 host up) scanned in 1.68 seconds

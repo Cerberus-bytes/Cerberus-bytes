@@ -1,0 +1,56 @@
+[*] kerberos-sec found on tcp/88.
+
+
+
+[*] msrpc found on tcp/135.
+
+
+
+[*] netbios-ssn found on tcp/139.
+
+
+
+[*] ldap found on tcp/389.
+
+
+
+[*] kpasswd5 found on tcp/464.
+
+
+
+[*] ncacn_http found on tcp/593.
+
+
+
+[*] tcpwrapped found on tcp/636.
+
+
+
+[*] msrpc found on tcp/49152.
+
+
+
+[*] msrpc found on tcp/49153.
+
+
+
+[*] msrpc found on tcp/49154.
+
+
+
+[*] msrpc found on tcp/49155.
+
+
+
+[*] ncacn_http found on tcp/49157.
+
+
+
+[*] msrpc found on tcp/49158.
+
+
+
+[*] kerberos-sec found on udp/88.
+
+
+

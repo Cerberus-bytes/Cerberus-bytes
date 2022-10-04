@@ -1,4 +1,4 @@
-Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sat May 21 13:36:16 2022
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Mon Aug  1 17:38:45 2022
 
 [34m =========================================( [0m[32mTarget Information[0m[34m )=========================================
 

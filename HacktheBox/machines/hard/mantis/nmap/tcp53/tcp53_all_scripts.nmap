@@ -1,0 +1,20 @@
+# Nmap 7.92 scan initiated Mon Sep 26 16:29:26 2022 as: nmap -p53 --script=dns* -Pn -oN tcp53_all_scripts.nmap 10.10.10.52
+Nmap scan report for 10.10.10.52
+Host is up (0.039s latency).
+
+PORT   STATE SERVICE
+53/tcp open  domain
+|_dns-nsec3-enum: Can't determine domain for host 10.10.10.52; use dns-nsec3-enum.domains script arg.
+| dns-nsid: 
+|_  bind.version: Microsoft DNS 6.1.7601 (1DB15CD4)
+|_dns-fuzz: Server didn't response to our probe, can't fuzz
+|_dns-nsec-enum: Can't determine domain for host 10.10.10.52; use dns-nsec-enum.domains script arg.
+
+Host script results:
+| dns-blacklist: 
+|   SPAM
+|     list.quorum.to - FAIL
+|_    l2.apews.org - FAIL
+|_dns-brute: Can't guess domain of "10.10.10.52"; use dns-brute.domain script argument.
+
+# Nmap done at Mon Sep 26 16:29:35 2022 -- 1 IP address (1 host up) scanned in 8.87 seconds
