@@ -5,4 +5,3 @@ Anonymous login successful
 	---------       ----      -------
 Reconnecting with SMB1 for workgroup listing.
 Unable to connect with SMB1 -- no workgroup available
-

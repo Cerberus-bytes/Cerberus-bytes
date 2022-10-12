@@ -1,4 +1,4 @@
-Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sat Sep 24 16:48:29 2022
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Mon Oct 10 17:32:46 2022
 
 [34m =========================================( [0m[32mTarget Information[0m[34m )=========================================
 
@@ -134,6 +134,6 @@ Unable to connect with SMB1 -- no workgroup available
 [0mdo_cmd: Could not initialise spoolss. Error was NT_STATUS_ACCESS_DENIED
 
 
-enum4linux complete on Sat Sep 24 16:48:56 2022
+enum4linux complete on Mon Oct 10 17:33:27 2022
 
 
