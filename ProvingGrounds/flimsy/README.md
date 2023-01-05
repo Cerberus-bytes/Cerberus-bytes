@@ -2,8 +2,11 @@
 ## Information Gathering
 #### Ports/Services
 22/tcp      ssh        OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+
 80/tcp      http       nginx 1.18.0 (Ubuntu)
+
 3306/tcp    mysql      MySQL (unauthorized)
+
 8080/tcp closed http-proxy
 
 
