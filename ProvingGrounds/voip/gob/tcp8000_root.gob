@@ -1,7 +1,0 @@
-/login.php            (Status: 200) [Size: 3281]
-/index.php            (Status: 302) [Size: 0] [--> login.php]
-/users.php            (Status: 302) [Size: 1] [--> login.php]
-/information.php      (Status: 302) [Size: 0] [--> login.php]
-/config.php           (Status: 302) [Size: 0] [--> login.php]
-/logs.php             (Status: 302) [Size: 0] [--> login.php]
-/server-status        (Status: 403) [Size: 282]

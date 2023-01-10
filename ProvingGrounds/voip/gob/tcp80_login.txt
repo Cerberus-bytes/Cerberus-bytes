@@ -1,5 +1,0 @@
-/images               (Status: 301) [Size: 325] [--> http://192.168.185.156/login/images/]
-/css                  (Status: 301) [Size: 322] [--> http://192.168.185.156/login/css/]
-/js                   (Status: 301) [Size: 321] [--> http://192.168.185.156/login/js/]
-/vendor               (Status: 301) [Size: 325] [--> http://192.168.185.156/login/vendor/]
-/fonts                (Status: 301) [Size: 324] [--> http://192.168.185.156/login/fonts/]
